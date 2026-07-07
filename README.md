@@ -3,6 +3,7 @@
 **Análise exploratória do dataset Superstore**
 
 **Autor:** Vicente Luzzi Seganfredo
+
 **Repositório:** https://github.com/vicenteels/SuperstoreAnalysis
 
 Este projeto apresenta uma análise exploratória do conjunto de dados `Superstore.csv`, com foco em vendas, lucro, desconto, clientes, regiões, estados e logística de entrega. O objetivo foi transformar os dados em insights práticos sobre desempenho comercial e oportunidades de melhoria.
