@@ -117,8 +117,12 @@ Se você não quiser executar o notebook, pode abrir o `Analise.ipynb` diretamen
 - pandas
 - matplotlib
 - seaborn
+- numpy
 - ipykernel
 
 ## Observação final
 
 A análise foi construída com foco em clareza visual e interpretação prática dos dados. O notebook serve como base para evoluções futuras, como a criação de um dashboard interativo ou novas segmentações de clientes e produtos.
+
+## Referências
+Alguns dos gráficos foram baseados no notebook https://www.kaggle.com/code/rbrijesh/superstore-sales-analysis-end-to-end-eda disponível na Kaggle
